@@ -12,7 +12,7 @@
 
 ## ⚙️ Tech
 
-### 🧩 Languages
+### 🔗 Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Frameworks & Libraries
+### 🔗 Frameworks & Libraries
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="ExpressJS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
@@ -37,7 +37,7 @@
 
 ---
 
-### 🧪 Tools & Environments
+### 🔗 Tools & Environments
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
