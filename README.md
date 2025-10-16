@@ -1,3 +1,18 @@
+<h1 align="center">👋 Hi, I'm Koushal G Hegde</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=koushalgh&label=Profile%20views&color=0e75b6&style=flat" alt="koushalgh" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 💻 I am a **Full-Stack Developer**
+- 🌱 Currently learning **GenAI** and **RAG (Retrieval-Augmented Generation)**
+- 🚀 Passionate about building AI-powered web apps
+
+---
+
 ## ⚙️ Tech
 
 ### 🧩 Languages
@@ -31,4 +46,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55" alt="Jupyter"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushalgh&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushalgh&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile ✨</p>
 
