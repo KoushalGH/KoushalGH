@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 💻 I am a **Full-Stack Developer**
-- 🌱 Currently learning **GenAI** and **RAG (Retrieval-Augmented Generation)**
+
 - 🚀 Passionate about building AI-powered web apps
 
 ---
