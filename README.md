@@ -32,7 +32,7 @@
 
 ---
 
-### ⚡ Frameworks & Libraries
+### 🔗 Frameworks & Libraries
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
@@ -64,7 +64,7 @@
 
 ---
 
-### 🧰 Tools & Environments
+### 🔗 Tools & Environments
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
