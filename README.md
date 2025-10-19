@@ -13,18 +13,18 @@
 ## ⚙️ Tech
 
 ### 🔗 Languages
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/><br>C
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br>C++
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>Python
     </td>
   </tr>
@@ -32,51 +32,57 @@
 
 ---
 
-### 🔗 Frameworks & Libraries
-<table align="center">
+### ⚡ Frameworks & Libraries
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br>React
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/><br>Node.js
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80" height="50"/><br>Express
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>MongoDB
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/><br>NumPy
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br>Pandas
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/><br>MobileNetV2<br>(TensorFlow)
+    </td>
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/><br>Scikit-Learn
     </td>
-    
   </tr>
 </table>
 
 ---
 
-### 🔗 Tools & Environments
-<table align="center">
+### 🧰 Tools & Environments
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/><br>Git
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/><br>Postman
     </td>
-    
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/><br>VS Code
+    </td>
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50"/><br>Jupyter
+    </td>
   </tr>
 </table>
-
 
 
 
