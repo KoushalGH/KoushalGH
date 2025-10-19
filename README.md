@@ -32,7 +32,7 @@
 
 ---
 
-### ⚡ Frameworks & Libraries
+### 🔗 Frameworks & Libraries
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -58,15 +58,13 @@
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/><br>Scikit-Learn
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/><br>HTML
-    </td>
+    
   </tr>
 </table>
 
 ---
 
-### 🧰 Tools & Environments
+### 🔗 Tools & Environments
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -75,12 +73,7 @@
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/><br>Postman
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/><br>VS Code
-    </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50"/><br>Jupyter
-    </td>
+    
   </tr>
 </table>
 
