@@ -4,7 +4,7 @@
 
 
 ### 👨‍💻 About Me
-- 💻 I am a ** MERN-Stack Developer**
+- 💻 I am a **MERN-Stack Developer**
 
 - 🚀 Passionate about building AI-powered web apps
 
