@@ -1,3 +1,5 @@
+
+
 <h1 align="center">👋 Hi, I'm Koushal G Hegde</h1>
 
 ### 👨‍💻 About Me
@@ -46,6 +48,9 @@
   </tr>
   <tr>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50"/><br>SQLAlchemy
+    </td>
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>MongoDB
     </td>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
@@ -54,11 +59,11 @@
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/><br>NumPy
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br>Pandas
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/><br>Scikit-Learn
     </td>
@@ -87,5 +92,4 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushalgh&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
-
 
