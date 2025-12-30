@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi, I'm Koushal G Hegde</h1>
+<h1 align="center">👋 Hi, I'm Koushal Hegde</h1>
 
 ### 👨‍💻 About Me
 - 💻 I am a **MERN-Stack Developer**
