@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Koushal Hegde</h1>
 
 ### 👨‍💻 About Me
-- 💻 I am a **MERN-Stack Developer**
+- 💻 I am a **Backend Developer**
 - 🚀 Passionate about building AI-powered web apps
 
 ---
