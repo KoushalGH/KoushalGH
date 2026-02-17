@@ -20,9 +20,7 @@
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript
     </td>
-   <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50"/><br>Docker
-</td>
+   
 
   </tr>
 </table>
