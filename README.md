@@ -18,6 +18,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><br>C++
     </td>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>Python
+    </td>
+    <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript
     </td>
    
