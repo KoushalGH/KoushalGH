@@ -80,9 +80,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/><br>Postman
     </td>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-<br>Docker
-    </td>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60" height="50"/><br>Docker
+</td>
+
   </tr>
 </table>
 
