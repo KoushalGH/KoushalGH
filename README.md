@@ -23,8 +23,6 @@
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript
     </td>
-   
-
   </tr>
 </table>
 
@@ -67,6 +65,9 @@
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/><br>Scikit-Learn
     </td>
+   <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="50" height="50"/><br>Supabase
+</td>
   </tr>
 </table>
 
@@ -82,10 +83,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/><br>Postman
     </td>
     <td align="center" width="100" style="border: 1px solid #444; border-radius: 10px; padding: 10px;">
-  <img src="https://img.icons8.com/fluency/96/docker.png" width="50" height="50"/><br>Docker
-</td>
-
-
+      <img src="https://img.icons8.com/fluency/96/docker.png" width="50" height="50"/><br>Docker
+    </td>
   </tr>
 </table>
 
@@ -97,4 +96,3 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushalgh&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
-
